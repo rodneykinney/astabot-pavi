@@ -3,3 +3,8 @@
 /.claude
 /v25_architecture.svg
 /v26_architecture.svg
+
+# Beads / Dolt files (added by bd init)
+.dolt/
+*.db
+.beads-credential-key

@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "astabot_pavi",
+  "project_id": "c78fe8a4-6d05-40f2-a232-959d4e11743f"
+}
